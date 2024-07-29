@@ -1,0 +1,4 @@
+name: ascensor
+version: '1.0'
+main: cl.lxdevelop.ascensor.Ascensor
+api-version: '1.20'
